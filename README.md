@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 <div align="center">
 
-[![KR010317's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR010317)](https://github.com/KR010317/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehgns223)](https://solved.ac/dlehgns223/)
 </div>
