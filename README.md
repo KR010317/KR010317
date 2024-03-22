@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 <div align="center">
 
 [![KR010317's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR010317)](https://github.com/KR010317/github-readme-stats)
