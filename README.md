@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=ED986C&height=300&section=header&text=dohoon's%20github&fontSize=90&fontColor=0A4468&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0A4468&height=300&section=header&text=dohoon's%20github&fontSize=90&fontColor=F8F8F5&animation=fadeIn)
 
 
 ### Hi there 👋
