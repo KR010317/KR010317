@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-[![dlehgns223's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlehgns223)](https://github.com/dlehgns223/github-readme-stats)
+[![KR010317's GitHub stats](https://github-readme-stats.vercel.app/api?username=KR010317)](https://github.com/KR010317/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlehgns223)](https://solved.ac/dlehgns223/)
 </div>
