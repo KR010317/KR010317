@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0A4468&height=350&section=header&text=%20DoHoon&fontSize=90&fontColor=F8F8F5&animation=fadeIn)
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DoHoon's%20GitHub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20%20%20%20%20%20%20&descAlignY=51&descAlign=62"/>
 <hr>
 
 ### Hi there 👋
